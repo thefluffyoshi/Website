@@ -1,0 +1,141 @@
+h1
+{
+  padding: 40px 0;
+  color: white;
+}
+
+h2
+{
+  padding: 40px 0;
+  color: #546978;
+}
+
+h3
+{
+  padding: 40px 0;
+  color: #546978;
+}
+
+h4, #letterh2
+{
+  padding: 40px 0;
+  color: white;
+}
+
+h1, h2, h3, h4, #form, #letter
+{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+mark
+{
+  background: #546978;
+  color:white;
+}
+
+body#psychology
+{
+  background-color:#9a6c63;
+}
+
+body#develop
+{
+  background-color:#008989;
+}
+
+body#body
+{
+  background-color:#b4840d;
+}
+
+body#abnormal
+{
+  background-color:#d05d47;
+}
+
+body#form
+{
+  background-color: #008989;
+}
+
+#box
+{
+  box-shadow: 5px 10px black;
+}
+table,th,td
+{
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+
+body#letter
+{
+  background-color: #b4840d
+}
+
+iframe
+{
+  display: block;
+  margin: 0 auto;
+}
+
+img
+{
+  display: block;
+  margin: 0 auto;
+}
+
+centerBrain
+{
+  display: block;
+  margin-left: 0 auto;
+  margin-right: 0 auto;
+  width: 30%
+}
+
+#genActions
+{
+  width:180px;
+  overflow: hidden;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  float: center;
+}
+
+.menu {
+  list-style: none;
+  margin: 0;
+  float: left;
+  width: 10;
+  padding: 0;
+  position: relative;
+  top: 0;
+  overflow: hidden;
+  background-color: rgb(34, 34, 34);
+}
+
+.menu a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.menu a:hover {
+  background-color: #d05d47;
+  text-decoration: none;
+  color: white;
+
+}
+
+#letterToUser
+{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+
+#myaddress, #letterh2
+{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: right;
+}
